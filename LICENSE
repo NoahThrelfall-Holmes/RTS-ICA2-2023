@@ -1,21 +1,40 @@
-MIT License
+# Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License (Modified)
 
-Copyright (c) 2025 Noah Threlfall-Holmes
+## By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License ("Public License").
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+**Effective Date:** [Date]
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+### Section 1 – Definitions.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+- **AI Use Restriction**: The term "AI Use" means the use of the Licensed Material to train, develop, or improve machine learning models, artificial intelligence systems, or any similar technologies.
+- **Licensed Material** means the artistic or literary work, database, or other material to which the Licensor applied this Public License.
+- **Licensed Rights** means the rights granted to You subject to the terms and conditions of this Public License.
+
+### Section 2 – Scope.
+
+1. **License Grant**.
+    - Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to:
+        - reproduce and share the Licensed Material, in whole or in part, for NonCommercial purposes only; and
+        - produce and reproduce, but not Share, Adaptations of the Licensed Material for NonCommercial purposes only.
+  
+2. **No AI Use**.
+    - The Licensed Material, in whole or in part, may not be used for AI Use, including but not limited to training, developing, or improving machine learning models or artificial intelligence systems.
+
+3. **NonCommercial**.
+    - You may exercise the Licensed Rights for NonCommercial purposes only. 
+
+4. **No Derivatives**.
+    - If You share the Licensed Material, you must do so in its original, unmodified form. 
+
+5. **Attribution**.
+    - If you share or otherwise use the Licensed Material, You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the Licensor endorses You or Your use.
+
+### Section 3 – Termination.
+
+1. This Public License applies until terminated. If You violate the terms of this Public License, your rights under this license terminate automatically.
+
+2. If your rights under this Public License terminate, you do not automatically regain them.
+
+### Section 4 – Disclaimer.
+
+The Licensed Material is licensed "as-is." The Licensor makes no warranties regarding the Licensed Material, and disclaims liability for any damages resulting from its use to the fullest extent permissible by law.
